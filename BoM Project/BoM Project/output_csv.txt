@@ -1,0 +1,17 @@
+Book,Instances
+Introduction,0
+1 Nephi,26
+2 Nephi,42
+Jacob,9
+Enos,0
+Jarmon,0
+Omni,0
+Words of Mormon,1
+Mosiah,28
+Alma,65
+Helaman,11
+3 Nephi,26
+4 Nephi,0
+Mormon,7
+Ether,0
+Moroni,3

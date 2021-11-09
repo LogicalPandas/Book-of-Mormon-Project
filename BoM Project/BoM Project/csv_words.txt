@@ -1,0 +1,19 @@
+Word,Instances
+music,0
+sing,135
+singing,9
+sang,0
+sung,0
+song,3
+dance,15
+dancing,0
+danced,1
+praise,28
+praising,4
+praised,3
+lift up,19
+lifting up,1
+break forth,7
+breaking forth,0
+psalm,0
+hymn,0
